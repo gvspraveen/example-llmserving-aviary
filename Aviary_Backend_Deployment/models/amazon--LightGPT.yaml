@@ -44,4 +44,4 @@ scaling_config:
   num_gpus_per_worker: 1
   num_cpus_per_worker: 4
   resources_per_worker:
-    accelerator_type_a10: 0.01
+    accelerator_type_t4: 0.01
