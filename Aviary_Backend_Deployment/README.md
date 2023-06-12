@@ -2,13 +2,10 @@
 - [Aviary](https://aviary.anyscale.com)
 
 ## Demo contact
-- Matt Connor, Uday, Akshay
+- Matt , Uday, Akshay
 
 ## Use Case
 - Deploy Aviary backend with Anyscale service
-
-## Demo Instrcutions
-- source _script.sh
 
 ## Special Instructions
 - The Aviary folder is copied from https://www.github.com/ray-project/aviary/tree/master/aviary
