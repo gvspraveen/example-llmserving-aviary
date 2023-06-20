@@ -1,6 +1,6 @@
-name: aviary_demo
-compute_config: aviary-cluster-compute
-cluster_env: mjc-aviary:1
+name: aviary_demo_praveen
+compute_config: praveeng-aviary-backend
+cluster_env: praveeng-aviary-anyscale:1
 ray_serve_config:
   import_path: aviary.backend:llm_application
   runtime_env:
